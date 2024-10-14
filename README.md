@@ -1,2 +1,2 @@
 # freecodecamp
-for web development class
+html/css exercises for web development class
