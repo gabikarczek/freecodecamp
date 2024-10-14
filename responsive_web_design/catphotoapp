@@ -1,2 +1,14 @@
+<html>
+  <body>
 <!-- main heading -->
   <h1>catphotoapp</h1>
+<!--the lower the number, the higher the importance of headings -->
+  <h2>cat photos</h2>
+  <!--creating paragraphs-->
+  <p>see more cat photos in our gallery.</p>
+  
+
+
+  </body>
+</html>
+
